@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt pr lpr
+file /tmp/iamafile
