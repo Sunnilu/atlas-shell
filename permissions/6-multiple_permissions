@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 /tmp/hello 6-multiple_permissions 
+sudo chmod+x 705 hello 
