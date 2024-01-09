@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod +x 705 hello 
+sudo chmod read write execute read hello 
