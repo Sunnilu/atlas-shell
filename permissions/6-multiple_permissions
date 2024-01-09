@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 [u+g]* +r [o]* hello 
+chmod 705 hello 
