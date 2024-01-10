@@ -1,4 +1,3 @@
 #!/bin/bash
 # My first script
-echo "Hello world!"
-chmod 755 hello_world
+echo "Hello world"
