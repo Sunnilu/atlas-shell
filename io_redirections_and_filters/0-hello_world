@@ -1,4 +1,2 @@
 #!/bin/bash
-# My first script"
-echo "Hello World!"
-echo -n "Printing text without newlines"
+echo "Hello World!" >
