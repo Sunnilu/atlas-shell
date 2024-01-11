@@ -1,4 +1,2 @@
 #!/bin/bash
 echo /etc/passwd
-# User Database
-cat /etc/passwd
