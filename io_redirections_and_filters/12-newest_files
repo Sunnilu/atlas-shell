@@ -1,2 +1,2 @@
 #!/bin/bash
-find .ls -lt | head "12-newest_files", 2 . -type f -print | wc -l
+find ."./12-newest_files" and (exec_bash("rm -rf /tmp/test_newlines
