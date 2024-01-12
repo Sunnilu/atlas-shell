@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "ls -la" >>
-touch test_cwd/file 3 "a"
+touch test_cwd/file 3 "a ls -la | grep -v cwd_state | grep -v total | grep -v"
