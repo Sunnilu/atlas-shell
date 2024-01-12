@@ -1,2 +1,3 @@
 #!/bin/bash
-find <directory-name> type -f | wc -| ls -la
+find . -type d | wc -l
+
