@@ -1,2 +1,2 @@
 #!/bin/bash
-pgrep -u root,daemon
+grep root /etc/passwd
