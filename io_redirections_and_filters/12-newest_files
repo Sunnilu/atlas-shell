@@ -1,0 +1,2 @@
+#!/bin/bash
+find .ls -lt | head "12-newest_files", 2 . -type f -print | wc -l
