@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "ls -la" >> ls_cwd_content
-cat > file.text <<EOF
+echo "ls -la" >>
+command << ls -la
