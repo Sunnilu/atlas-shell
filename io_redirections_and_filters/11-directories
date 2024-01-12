@@ -1,2 +1,2 @@
 #!/bin/bash
-find -f wc-|
+echo -e "\t Count Files in Directory and sub directories"
