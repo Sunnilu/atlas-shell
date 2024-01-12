@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "ls -la" >>
-command << ls -la
+touch test_cwd/file 3
