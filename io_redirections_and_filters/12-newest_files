@@ -1,2 +1,2 @@
 #!/bin/bash
-find ."./12-newest_files" and (exec_bash("rm -rf /tmp/test_newlines
+find . 12-newest_files 
