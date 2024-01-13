@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ; cd /tmp/test_alias ;
+alias alias_name='command
