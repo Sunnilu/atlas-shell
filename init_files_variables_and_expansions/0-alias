@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "alias $alias_name='$alias_command" >> ~/.bashrc
+alias [-p] [name="rm*
