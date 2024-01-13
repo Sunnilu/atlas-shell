@@ -1,2 +1,2 @@
 #!/bin/bash
-find . 12-newest_files grep -v '\''12-newest_files'\'' 
+echo "$files" 
