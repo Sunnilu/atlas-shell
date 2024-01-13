@@ -1,2 +1,2 @@
 #!/bin/bash
-tr c C | ./20-hiago'
+tr  -d Cc | ./20-hiago'
