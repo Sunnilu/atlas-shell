@@ -1,2 +1,2 @@
 #!/bin/bash
-alias "$alias_name"-"$alias_value" ==exec_bash "rm-rf" 
+alias_value="rm" 
