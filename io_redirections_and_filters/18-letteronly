@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -e ^[a-zA-Z] /etc/ssh/sshd_config > /dev/null .18-letteronly
+grep ^ :alpha: /etc/passwd
