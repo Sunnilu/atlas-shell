@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -q "alais $alias_name" "$config_file";
+echo "alias $alias_name='$alias_command" >> ~/.bashrc
