@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ; cd /tmp/test_alias ; ls -l | grep -v alias'
+alias ; cd /tmp/test_alias ;
