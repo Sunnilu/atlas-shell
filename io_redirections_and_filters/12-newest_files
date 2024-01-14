@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$files" 
+ls -t | head 
