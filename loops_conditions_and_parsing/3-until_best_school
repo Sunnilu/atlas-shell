@@ -2,9 +2,9 @@
 #display "Best School" 10 times
 echo "until loop"
 i=10
-until [ $i == 10 ]
+until [ $i == 1 ]
 do
-    echo "$i is not equal to 10";
-    i=$((i-10))
+    echo "Best School";
+    i=$((i-1))
 done
 echo "i value is $i"
