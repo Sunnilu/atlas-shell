@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod read write execute read hello 
+chmod ug+x, o+r hello 
